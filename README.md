@@ -3,9 +3,6 @@
   <h1 align="center"><b>Hola, soy Juan Esteban👋</b></h1>
 </p>
 
-<p align="center">
-<br>
-
 <a href="https://www.instagram.com/juanest.005?utm_source=qr&igsh=c3VlcHVucmdzMHR4"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="mailto:juesgade@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
