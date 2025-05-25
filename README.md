@@ -44,12 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
 
 <p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
-
------
-Credits: [sameer1604](https://github.com/sameer1604)
-
-Last Edited on: 16/07/2021
+   
 
 
