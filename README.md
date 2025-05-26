@@ -1,4 +1,5 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ 
+ ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p>
   <h1 align="center"><b>Hola, soy Juan Esteban👋</b></h1>
 </p>
@@ -49,6 +50,16 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+</a>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align='center'>
+<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+</p>
 
 <p align="center">
    3RT 
