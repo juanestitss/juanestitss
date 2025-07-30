@@ -14,7 +14,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### DATOS SOBRE MI...
-- 🔭 SOY ESTUDAINTE DE PROGRAMACIÓN  :grin:
+- 🔭 SOY ESTUDIANTE DE PROGRAMACIÓN  :grin:
 - 🌱 ME GUSTA LEER
 - 👯 JUGAR VIDEO JUEGOS :wink:
 - 🥅 ME GUSTA RESOLVER PROBLEMAS
